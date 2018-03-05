@@ -1,3 +1,7 @@
+:root {
+
+}
+
 html, body {
     background: #ffeead;
 }
@@ -6,35 +10,12 @@ h1, h2, p{
     color: #ff6f69;
 }
 
-#navbar ul li {
-    display: inline;
-}
-
 #navbar a {
     color: #ff6f69
 }
 
-main {
-    width: 80%;
-    margin: 0 auto;
-}
-
-.grid {
-    display: inline;
-}
-
-.item {    
-    width: 44%;
+.item {
     background: #ffcc5c;
-    margin: 1%; 
-    padding: 2%;
-}
-
-.left {
-    float: left;
-}
-.right {
-    float: right;
 }
 
 button {
